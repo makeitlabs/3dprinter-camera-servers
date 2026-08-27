@@ -1,5 +1,5 @@
 printer_camera_secrets.py
-images/
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
